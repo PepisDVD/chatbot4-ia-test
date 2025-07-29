@@ -31,7 +31,9 @@ npm install dotenv
 node .\src\index.js
 
 ## Usar GIT
+```
 git init
 git add .
 git commit -m "Cargar a GitGHun"
 git push origin master
+```
