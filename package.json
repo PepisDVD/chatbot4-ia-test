@@ -1,0 +1,20 @@
+{
+  "name": "chatbot_ia",
+  "version": "1.0.0",
+  "description": "***\r * npm init --y\r ***\r ## Instalar los paquetes necesarios\r ```\r Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass\r npm install\r npm install bailleys\r npm install qrcode\r npm install link-preview-js\r npm install sharp\r ```\r o ejecutar - `npm install baileys qrcode link-preview-js sharp`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "baileys": "^6.7.18",
+    "dotenv": "^17.2.1",
+    "link-preview-js": "^3.1.0",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.32.6"
+  }
+}
